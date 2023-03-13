@@ -48,6 +48,10 @@
     color: green;
 }
 
+#home-img-content-1-res {
+    display: none;
+}
+
 .home-img-content-2 {
     position: absolute;
     text-decoration: none;
@@ -179,6 +183,6 @@ li {
     }
 
     #home-img-content-1 {
-        font-size: 4vw !important;
+        font-size: 4.55vw !important;
     }
 }
